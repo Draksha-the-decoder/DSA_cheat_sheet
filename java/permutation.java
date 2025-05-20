@@ -2,6 +2,7 @@ import java.util.*;
 class permutation{
     public static void main(String args[])
     {
+        ArrayList<String> arr = new ArrayList<>();
         String str = "abc";
         permu(str,0,arr);
         System.out.println(arr);

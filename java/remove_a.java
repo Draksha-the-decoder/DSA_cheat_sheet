@@ -1,4 +1,3 @@
-import java.util.*;
 class remove_a{
     public static void main(String args[])
     {

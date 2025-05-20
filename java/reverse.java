@@ -5,7 +5,7 @@ class reverse {
        int n = 1234;
        System.out.println(rev(n,(int)Math.log10(n)+1));
     }
-    static int search(int n,int base)
+    static int rev(int n,int base)
     {
         if(n==0)
         return 0;
